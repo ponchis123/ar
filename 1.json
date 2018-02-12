@@ -1,0 +1,54 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 16.819999,   
+          "lon": -96.798700
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "UTVCO "
+      }
+    }, 
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 16.819999,   
+          "lon": -96.798700
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/ponchis123/ar/blob/master/casa.jpg"
+      }, 
+      "id": 2, 
+      "text": {
+        "description": "LABORATRIO DE MECATRONICA Y TECNOLOGIAS DE LA INFORMACION\nUNIVERSIDAD TECNOLOGICA DE LOS VALLES CENTRALES DE OAXACA \nand Description line 3", 
+        "title": "laboratorio de mecatronica y tics"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 16.819999,   
+          "lon": -96.798700
+        }
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "estas aqui"
+      }
+    }
+  ], 
+  "layer": ""
+}
